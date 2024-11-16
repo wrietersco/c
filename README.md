@@ -1,0 +1,2 @@
+# c
+firebase init hosting
